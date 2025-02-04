@@ -18,4 +18,6 @@ This project is open-source and can be freely modified and distributed.
 
 ## Installing Dependencies
 
-To install wxWidgets (https://www.wxwidgets.org/downloads/)
+-To install wxWidgets (https://www.wxwidgets.org/downloads/)
+if you are using Visual Studio after downloading wxWidgets, you could speed link it by goiting to veiw-> property manager -> mouse-right click on the project name
+-> Add existing property sheet -> go to wxWidgets path where you unziped it and select wxwidgets.props
