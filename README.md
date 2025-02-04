@@ -15,3 +15,7 @@ A basic calculator application built using the wxWidgets library.
 ## License
 
 This project is open-source and can be freely modified and distributed.
+
+## Installing Dependencies
+
+To install wxWidgets (https://www.wxwidgets.org/downloads/)
