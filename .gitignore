@@ -1,17 +1,13 @@
-# Ignore build and debug folders
-/x64/
-/Debug/
-/Release/
-
-# Ignore Visual Studio and wxWidgets generated files
+x64/
+Debug/
 *.ilk
-*.pdb
-*.obj
 *.exe
+*.obj
+*.pdb
 *.log
-*.vcxproj.user
 
-# wxWidgets and temporary IDE files
-*.o
-*.ipch
-*.cache
+
+# Ignore build files and directories
+/x64/
+/Calculat.ef4ba786/
+
